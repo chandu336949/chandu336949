@@ -1,79 +1,247 @@
-# Chandusri Kuramdasu
+# Hi, I'm Chandusri Kuramdasu 👋
 
-**Full-Stack Developer | Computer Science & Engineering Undergraduate**  
-Visakhapatnam, Andhra Pradesh, India (Open to Relocation)  
-[LinkedIn](https://linkedin.com/in/chandu-sri-kuramdasu) | [Email](mailto:chandusri0303@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Application+Developer;Computer+Science+Engineer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+</p>
 
----
-
-## Executive Summary
-Results-driven Software Engineer with practical experience building full-stack applications, integrating generative AI workflows, and training deep learning models. Robust foundation in Data Structures, Algorithms, and Object-Oriented Programming, combined with professional internship and open-source contributions.
-
----
-
-## Professional Experience
-
-### Frontend Developer Intern
-**Infosys Springboard** | *June 2026 – Present*
-* Architect and implement responsive user interfaces using HTML5, CSS3, JavaScript (ES6+), and React.js[cite: 1].
-* Optimize front-end application performance, accessibility, and mobile responsiveness following industry best practices[cite: 1].
-* Collaborate on cross-functional requirements to improve interactive application functionalities[cite: 1].
-
-### Open Source Contributor
-**Open Source Connect Global** | *February 2026*[cite: 1]
-* Isolated and resolved community-reported bugs and architectural performance bottlenecks using Git version control[cite: 1].
-* Participated in technical code reviews and submitted structured pull requests to maintain codebase stability[cite: 1].
+<p align="center">
+  <a href="mailto:chandusri0303@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/chandu-sri-kuramdasu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chandu336949">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Technical Skills
+# 👨‍💻 About Me
 
-* **Languages:** Python, Java, C, SQL (MySQL, SQLite)[cite: 1]
-* **Frameworks & Libraries:** React.js, Node.js, Express.js, Streamlit, TensorFlow, Keras[cite: 1]
-* **Architecture & APIs:** RESTful APIs, Model Context Protocol (MCP), JWT Authentication[cite: 1]
-* **Tools & DevOps:** Git, GitHub, Command Line, Pipedream[cite: 1]
-* **Core Competencies:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, Computer Networks[cite: 1]
+🎓 Third-Year Computer Science Engineering Student at **Raghu Engineering College**
 
----
+💼 Frontend Developer Intern at **Infosys Springboard**
 
-## Selected Projects
+🌍 Open Source Contributor at **Open Source Connect Global**
 
-### [AI-Powered Mock Interview Platform](https://github.com/chandu336949)
-*Full-Stack Web Application*[cite: 1]
-* Engineered an end-to-end web application simulating technical interviews using generative AI models[cite: 1].
-* Built a multi-step resume parsing wizard interface powered by Gemini AI[cite: 1].
-* Implemented live voice communication streams using AssemblyAI and Murf AI for real-time transcription and speech synthesis[cite: 1].
-* **Technologies Used:** React.js, Node.js, Express, MongoDB, JWT, Gemini AI[cite: 1]
+📍 Visakhapatnam, India (Open to Relocation)
 
-### [Learning Path Generator via MCP](https://github.com/chandu336949)
-*Modular Web Dashboard*[cite: 1]
-* Developed an educational timeline tracker that generates custom academic syllabi dynamically[cite: 1].
-* Leveraged the Model Context Protocol (MCP) paired with Google AI Studio to broker resources across distinct platforms[cite: 1].
-* Connected Pipedream webhooks to aggregate relative documentation and video lectures automatically[cite: 1].
-* **Technologies Used:** Python, Streamlit, Model Context Protocol, Google AI Studio, Pipedream[cite: 1]
+💡 Passionate about developing scalable web applications, AI-powered software, and solving Data Structures & Algorithms problems.
 
-### [Pneumonia Detection CNN Pipeline](https://github.com/chandu336949)
-*Deep Learning & Computer Vision*[cite: 1]
-* Constructed a 2-layer Convolutional Neural Network (CNN) architecture with feature scaling for radiographic classification[cite: 1].
-* Achieved an 87% testing accuracy verification threshold for standalone automated diagnostic processing[cite: 1].
-* **Technologies Used:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib[cite: 1]
+🚀 Currently exploring
+- Artificial Intelligence
+- Model Context Protocol (MCP)
+- Full Stack Development
+- System Design
+- Cloud Technologies
 
 ---
 
-## Education & Credentials
+# 🛠 Tech Stack
 
-* **Bachelor of Technology in Computer Science** | Raghu Engineering College[cite: 1]
-  * Cumulative Grade: **9.27 CGPA**[cite: 1]
-  * Core Focus: Advanced Data Structures, Competitive Programming (200+ problems solved on CodeChef)
-* **State-Level Buildathon Qualifier** | OpenAI Academy & NxtWave Buildathon[cite: 1]
-  * Project selected for state-level finals from hundreds of entries[cite: 1].
-* **Academic Merit Award** | Department Top Scorer, Raghu Engineering College[cite: 1]
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite" />
+</p>
+
+## AI & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Pipedream-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## GitHub Performance Metric
+# 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandu336949&show_icons=true&theme=compact" alt="GitHub Metrics" height="135" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu336949&layout=compact&theme=compact" alt="Language Metrics" height="135" />
+## 🤖 AI-Powered Mock Interview Platform
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • JWT • Gemini AI • AssemblyAI • Murf AI
+
+### Highlights
+
+- AI-driven mock interview experience
+- Resume parsing wizard
+- Live coding with Monaco Editor
+- Voice transcription & speech synthesis
+- Secure JWT Authentication
+
+---
+
+## 🗺️ Learning Path Generator using MCP
+
+**Tech Stack**
+
+Python • Streamlit • Google AI Studio • MCP • Pipedream
+
+### Highlights
+
+- Personalized roadmap generation
+- Dynamic syllabus creation
+- AI-powered recommendations
+- YouTube & documentation integration
+- Automated workflows
+
+---
+
+## 🫁 Pneumonia Detection using CNN
+
+**Tech Stack**
+
+TensorFlow • Keras • Python • NumPy • Pandas
+
+### Highlights
+
+- Chest X-Ray Classification
+- CNN-based Deep Learning Model
+- 87% Test Accuracy
+- Medical Image Processing
+
+---
+
+# 🏆 Achievements
+
+🏅 State-Level Buildathon Qualifier
+
+🏆 CSE Top Academic Scorer
+
+💻 Solved 200+ DSA Problems
+
+🌍 Open Source Contributor
+
+🎓 GPA: **9.27**
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandu336949&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu336949&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=chandu336949&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandu336949&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chandu336949&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React
+- System Design
+- AI Agents
+- Model Context Protocol
+- Cloud Computing
+- Docker
+- Kubernetes
+
+---
+
+# 🎯 2026 Goals
+
+✅ Secure a Software Development Internship
+
+✅ Contribute to Open Source Projects
+
+✅ Master Full Stack Development
+
+✅ Build AI Products
+
+✅ Solve 500+ DSA Problems
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:chandusri0303@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chandu-sri-kuramdasu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chandu336949">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent applications that solve real-world problems."*
+
 </p>
