@@ -54,7 +54,6 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 **LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI **
 
 ---
----
 
 ### Cloud, Developer Tools & Core Computer Science
 
