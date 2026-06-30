@@ -14,28 +14,28 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
-**Python  • JavaScript • C • SQL**
+**Python • Java • JavaScript • C • SQL**
 
 ---
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-**React.js • HTML5 • CSS3 • Bootstrap  • Flexbox • CSS Grid • Media Queries**
+**React.js • HTML5 • CSS3 • Bootstrap • Flexbox • CSS Grid • Responsive Design • Media Queries**
 
 ---
 
 ### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
 </p>
 
 **Node.js • Express.js • REST APIs • MongoDB • MySQL • SQLite**
@@ -44,36 +44,38 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 
 ### Artificial Intelligence
 
-<p>
-
-<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
 </p>
 
-**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI **
----//
+**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI • Model Context Protocol (MCP)**
 
+---
 
-### Cloud, Developer Tools & Core CS
+### Data Analytics
 
-<p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,vscode" />
+**Power BI • Data Analytics • Data Visualization • NumPy • Pandas**
 
-<img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge"/>
+### Cloud, Developer Tools & Core Computer Science
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 **AWS • Cloud Computing • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Canva**
@@ -82,18 +84,16 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 
 ## Connect
 
-<p>
+<p align="left">
+  <a href="mailto:chandusri0303@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:chandusri0303@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/chandu-sri-kuramdasu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/chandu-sri-kuramdasu">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/chandu336949">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/chandu336949">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
