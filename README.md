@@ -49,9 +49,22 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
 </p>
 
-**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI **
+**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI • Model Context Protocol (MCP)**
+
+---
+
+### Data Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
+
+**Power BI • Data Analytics • Data Visualization • NumPy • Pandas**
 
 ---
 
@@ -65,7 +78,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-**AWS  Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Canva**
+**AWS • Cloud Computing • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Canva**
 
 ---
 
