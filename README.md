@@ -66,7 +66,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-**AWS • Cloud Computing • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Canva**
+**AWS  • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Canva**
 
 ---
 
