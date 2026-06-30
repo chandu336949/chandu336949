@@ -1,7 +1,7 @@
 # Hi, I'm Chandusri Kuramdasu 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Application+Developer;Computer+Science+Engineer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+Application+Developer;Final-Year+Computer+Science+Student;Open+Source+Contributor;Building+AI-Powered+Web+Applications" />
 </p>
 
 <p align="center">
@@ -20,46 +20,54 @@
 
 # 👨‍💻 About Me
 
-🎓 Third-Year Computer Science Engineering Student at **Raghu Engineering College**
+🎓 Final-Year B.Tech Computer Science Engineering Student at **Raghu Engineering College** (CGPA: **9.27**)
 
 💼 Frontend Developer Intern at **Infosys Springboard**
 
 🌍 Open Source Contributor at **Open Source Connect Global**
 
-📍 Visakhapatnam, India (Open to Relocation)
+📍 Visakhapatnam, India | Open to Relocation
 
-💡 Passionate about developing scalable web applications, AI-powered software, and solving Data Structures & Algorithms problems.
+💡 Passionate about Full-Stack Development, AI-powered applications, Cloud Computing, and solving complex Data Structures & Algorithms problems.
 
-🚀 Currently exploring
-- Artificial Intelligence
+🚀 **Currently Learning**
+
+- Artificial Intelligence & AI Agents
 - Model Context Protocol (MCP)
-- Full Stack Development
+- Cloud Computing (AWS)
 - System Design
-- Cloud Technologies
+- Advanced Full-Stack Development
+- DevOps Fundamentals
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
 </p>
 
-## Frontend
+---
+
+## 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-## Backend
+---
+
+## ⚙️ Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite" />
 </p>
 
-## AI & Machine Learning
+---
+
+## 🤖 AI, ML & Generative AI
 
 <p>
 
@@ -69,6 +77,8 @@
 
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
@@ -77,15 +87,39 @@
 
 </p>
 
-## Tools
+---
+
+## ☁️ Cloud & Core Computer Science
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,linux" />
+
+<img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-7B68EE?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+
+<img src="https://img.shields.io/badge/Command_Line-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Pipedream-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
 
@@ -101,31 +135,30 @@ React • Node.js • Express • MongoDB • JWT • Gemini AI • AssemblyAI �
 
 ### Highlights
 
-- AI-driven mock interview experience
-- Resume parsing wizard
-- Live coding with Monaco Editor
-- Voice transcription & speech synthesis
-- Secure JWT Authentication
+- AI-powered mock interviews with personalized feedback
+- Resume parsing and candidate analysis
+- Live coding environment using Monaco Editor
+- Real-time speech-to-text and AI voice synthesis
+- Secure authentication using JWT
 
 ---
 
-## 🗺️ Learning Path Generator using MCP
+## 🗺️ Learning Path Generator via MCP
 
 **Tech Stack**
 
-Python • Streamlit • Google AI Studio • MCP • Pipedream
+Python • Streamlit • MCP • Google AI Studio • Pipedream
 
 ### Highlights
 
-- Personalized roadmap generation
-- Dynamic syllabus creation
-- AI-powered recommendations
-- YouTube & documentation integration
-- Automated workflows
+- Personalized AI-generated learning roadmaps
+- Dynamic syllabus generation
+- Automated YouTube and documentation integration
+- Cross-platform workflow automation using MCP
 
 ---
 
-## 🫁 Pneumonia Detection using CNN
+## 🫁 Pneumonia Detection using Deep Learning
 
 **Tech Stack**
 
@@ -133,10 +166,12 @@ TensorFlow • Keras • Python • NumPy • Pandas
 
 ### Highlights
 
-- Chest X-Ray Classification
-- CNN-based Deep Learning Model
-- 87% Test Accuracy
-- Medical Image Processing
+- CNN-based Chest X-Ray classification
+- Medical image preprocessing pipeline
+- Achieved **87% Test Accuracy**
+- Automated pneumonia prediction system
+
+---
 
 # 🤝 Let's Connect
 
@@ -159,9 +194,9 @@ TensorFlow • Keras • Python • NumPy • Pandas
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandu336949&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-### ⭐ Thanks for visiting my profile!
-
-*"Building intelligent applications that solve real-world problems."*
-
+<p align="center">
+<b>⭐ Building intelligent software, scalable web applications, and AI-powered solutions that solve real-world problems.</b>
 </p>
