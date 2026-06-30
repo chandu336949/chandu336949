@@ -18,7 +18,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 <img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
 </p>
 
-**Python • Java • JavaScript (ES6+) • C • SQL**
+**Python  • JavaScript • C • SQL**
 
 ---
 
@@ -28,7 +28,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-**React.js • HTML5 • CSS3 • Bootstrap • Responsive Web Design • Flexbox • CSS Grid • Media Queries**
+**React.js • HTML5 • CSS3 • Bootstrap  • Flexbox • CSS Grid • Media Queries**
 
 ---
 
@@ -41,10 +41,15 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 **Node.js • Express.js • REST APIs • MongoDB • MySQL • SQLite**
 
 ---
+---
 
-### Artificial Intelligence & Data Analytics
+### Artificial Intelligence
 
 <p>
+
+<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
 
@@ -52,17 +57,10 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 
 <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
 </p>
 
-**Generative AI • Gemini AI • Claude AI • Model Context Protocol (MCP) • Power BI • NumPy • Pandas • Data Analytics**
+**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI • Model Context Protocol (MCP)**
 
----
 
 ### Cloud, Developer Tools & Core CS
 
@@ -76,13 +74,11 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pipedream-000000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
 
-**AWS • Cloud Computing • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Pipedream • Canva**
+**AWS • Cloud Computing • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Canva**
 
 ---
 
