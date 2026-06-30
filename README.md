@@ -1,8 +1,12 @@
 # Hi, I'm Chandusri Kuramdasu
 
-### Full-Stack Developer | AI Enthusiast | Final-Year CSE Student
+### Full-Stack Developer | AI Developer | Final-Year Computer Science Engineering Student
 
-I'm a Final-Year Computer Science Engineering student at **Raghu Engineering College** with a passion for building scalable web applications, AI-powered solutions, and solving real-world problems. I enjoy learning new technologies, contributing to open source, and continuously improving my software development skills.
+I'm a Final-Year Computer Science Engineering student at **Raghu Engineering College** with a strong interest in Full-Stack Development, Artificial Intelligence, and Cloud Computing. I enjoy building scalable web applications, integrating AI into real-world solutions, and continuously expanding my technical expertise through projects, open-source contributions, and hands-on learning.
+
+My experience spans frontend and backend development, AI-powered applications, data analytics, and core computer science concepts. I am passionate about writing clean, maintainable code, solving challenging problems using Data Structures and Algorithms, and developing software that creates meaningful impact.
+
+Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and Cloud Engineering opportunities where I can contribute, learn, and grow as a software engineer.
 
 ---
 
@@ -14,11 +18,19 @@ I'm a Final-Year Computer Science Engineering student at **Raghu Engineering Col
 <img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
 </p>
 
+**Python • Java • JavaScript (ES6+) • C • SQL**
+
+---
+
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
+
+**React.js • HTML5 • CSS3 • Bootstrap • Responsive Web Design • Flexbox • CSS Grid • Media Queries**
+
+---
 
 ### Backend & Databases
 
@@ -26,13 +38,13 @@ I'm a Final-Year Computer Science Engineering student at **Raghu Engineering Col
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite" />
 </p>
 
-### AI & Data
+**Node.js • Express.js • REST APIs • MongoDB • MySQL • SQLite**
+
+---
+
+### Artificial Intelligence & Data Analytics
 
 <p>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
 
@@ -48,7 +60,11 @@ I'm a Final-Year Computer Science Engineering student at **Raghu Engineering Col
 
 </p>
 
-### Cloud & Core Computer Science
+**Generative AI • Gemini AI • Claude AI • Model Context Protocol (MCP) • Power BI • NumPy • Pandas • Data Analytics**
+
+---
+
+### Cloud, Developer Tools & Core CS
 
 <p>
 
@@ -65,6 +81,8 @@ I'm a Final-Year Computer Science Engineering student at **Raghu Engineering Col
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
+
+**AWS • Cloud Computing • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Pipedream • Canva**
 
 ---
 
