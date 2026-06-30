@@ -41,7 +41,6 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 **Node.js • Express.js • REST APIs • MongoDB • MySQL • SQLite**
 
 ---
----
 
 ### Artificial Intelligence
 
@@ -58,7 +57,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 </p>
 
 **LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI **
----
+---//
 
 
 ### Cloud, Developer Tools & Core CS
