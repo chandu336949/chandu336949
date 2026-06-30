@@ -55,11 +55,10 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 
 <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
-
 </p>
 
-**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI • Model Context Protocol (MCP)**
+**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI **
+---
 
 
 ### Cloud, Developer Tools & Core CS
