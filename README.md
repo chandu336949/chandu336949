@@ -3,7 +3,7 @@
 I am a **Full-Stack Developer** and Computer Science Engineering student passionate about building intelligent web applications, integrating AI workflows, and solving complex algorithmic challenges. 
 
 - 💼 **Current Role:** Frontend Developer Intern at **Infosys Springboard** 
-- 🎓 **Education:** B.Tech in Computer Science at **Raghu Engineering College** (GPA: 9.27)
+- 🎓 **Education:** B.Tech in Computer Science at **Raghu Engineering College** (GPA: 9.14)
 - 🌐 **Open Source:** Active contributor to global codebases via **Open Source Connect Global**
 - 📍 **Location:** Visakhapatnam, India (Open to Relocation)
 
