@@ -28,7 +28,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-**React.js • HTML5 • CSS3 • Bootstrap • Flexbox • CSS Grid • Responsive Design • Media Queries**
+**React.js • HTML5 • CSS3 • Bootstrap • Media Queries**
 
 ---
 
@@ -38,35 +38,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
 </p>
 
-**Node.js • Express.js • REST APIs • MongoDB • MySQL • SQLite**
-
----
-
-### Artificial Intelligence
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge"/>
-</p>
-
-**LLMs • Retrieval-Augmented Generation (RAG) • Gemini AI • Claude AI **
-
----
-
-
-### Cloud, Developer Tools & Core Computer Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,vscode" />
-  <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
-**AWS  • Linux • Command Line • Git • GitHub • VS Code • REST APIs • Computer Networks • Operating Systems • Canva**
+**Node.js • Express.js • REST APIs *
 
 ---
 
