@@ -35,7 +35,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Node.js • Express.js • REST APIs *
