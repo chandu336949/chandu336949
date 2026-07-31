@@ -15,7 +15,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,sql" />
 </p>
 
 **Python • Java • JavaScript • C • SQL**
@@ -35,7 +35,7 @@ Currently, I am seeking Software Development, Full-Stack Development, AI/ML, and
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,restapis" />
 </p>
 
 **Node.js • Express.js • REST APIs *
