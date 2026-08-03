@@ -20,7 +20,7 @@ Currently, I am seeking opportunities in **Software Development, Full-Stack Deve
   <img src="https://skillicons.dev/icons?i=python,java,js,c,mysql" />
 </p>
 
-**Python • Java • JavaScript • C • SQL**
+**Python • Java • JavaScript  • SQL**
 
 ---
 
@@ -37,10 +37,10 @@ Currently, I am seeking opportunities in **Software Development, Full-Stack Deve
 ## ⚙️ Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres" />
+  <img src="https://skillicons.dev/icons?i=django,postgres" />
 </p>
 
-**Node.js • Express.js • Django • Django REST Framework • REST APIs • PostgreSQL**
+ Django  • REST APIs • PostgreSQL**
 
 ---
 
