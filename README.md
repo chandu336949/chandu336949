@@ -6,8 +6,6 @@ I'm a Final-Year Computer Science Engineering student at **Raghu Engineering Col
 
 I enjoy building scalable web applications, integrating AI into real-world solutions, and continuously expanding my technical expertise through projects, open-source contributions, and hands-on learning.
 
-My experience spans frontend and backend development, AI-powered applications, data analytics, and core computer science concepts. I am passionate about writing clean, maintainable code, solving challenging problems using Data Structures and Algorithms (DSA), and developing software that creates meaningful impact.
-
 Currently, I am seeking opportunities in **Software Development, Full-Stack Development, AI/ML, and Cloud Engineering**, where I can contribute, learn, and grow as a software engineer.
 
 ---
