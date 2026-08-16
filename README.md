@@ -1,4 +1,4 @@
-# Hi, I'm Chandusri Kuramdasu 👋
+# Hi, I'm Chandusri Kuramdasu 
 
 ### Full-Stack Developer | AI Developer | Final-Year Computer Science Engineering Student
 
